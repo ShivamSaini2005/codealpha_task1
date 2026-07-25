@@ -1,0 +1,6 @@
+{
+  "name": "Mini Social Media",
+  "description": "A mini social media application with user profiles, posts, comments, likes, and a follow system powered by Express backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
